@@ -1,0 +1,30 @@
+.sobre {
+  min-height: 100vh;
+  background-color: #0d0d0d;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 40px 20px;
+}
+
+.about-container {
+  max-width: 800px;
+  background-color: #1a1a1a;
+  padding: 40px;
+  border-radius: 12px;
+  border: 1px solid red;
+  color: white;
+}
+
+.about-container h2 {
+  color: red;
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+.about-container p {
+  margin-bottom: 20px;
+  line-height: 1.7;
+}
